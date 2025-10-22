@@ -7,7 +7,7 @@ Thanks for stopping by — feel free to explore and reach out!
 
 ## 🧠 About Me
 - 🎓 **UK Excellence Scholar** in **Computer Science** at *University of Birmingham* — expected graduation *2027*  
-- 💻 Aspiring **Software Engineer** with a focus on building scalable, elegant solutions  
+- 💻 Aspiring **Software\Data Engineer** with a focus on building scalable, elegant solutions  
 - 🌱 Currently learning *Functional Programming, Databases and Web Development, and AI and Machine Learning concepts*  
 - 🧩 Interested in technology, sports and continuous learning and development opportunities
 
