@@ -31,7 +31,7 @@ Here are a few highlights from my portfolio (see pinned repositories for more):
 
 ## 🎯 What I’m Working On
 - 🔍 *Alongside my studies, I am currently building out an ML model for predicting results from the NFL Season*  
-- 📘 *Seeking 2026 Software Engineering Summer Internships*  
+- 📘 *Looking for oppurtunities to further my skills as a Software Engineer*  
 
 
 
