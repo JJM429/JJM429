@@ -30,14 +30,14 @@ Here are a few highlights from my portfolio (see pinned repositories for more):
 
 
 ## 🎯 What I’m Working On
-- 🔍 *Alongside my studies, I am currently building out an ML model for predicting results from the NFL Season*  
+- 🔍 *Alongside my studies, I am currently building out an AI Agent for Spanish Tutoring*  
 - 📘 *Looking for oppurtunities to further my skills as a Software Engineer*  
 
 
 
 ## 📫 Get in Touch
 - 🌐 **Website:** [https://jjm429.github.io/portfolio-website/](https://jjm429.github.io/portfolio-website/)  
-- 💼 **LinkedIn:** [www.linkedin.com/in/jamie-mottashed-b93068353](www.linkedin.com/in/jamie-mottashed-b93068353)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/jamie-mottashed](www.linkedin.com/in/jamie-mottashed)  
 - 📧 **Email:** james.mottashed@gmail.com
 
 
