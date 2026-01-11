@@ -27,11 +27,6 @@ Here are a few highlights from my portfolio (see pinned repositories for more):
 | [Python Financial Dashboard](https://github.com/JJM429/Financial-Dashboard-Python) | A Python-based financial dashboard that extracts, processes, and visualises real-world stock and revenue data. | Python, Jupyter Notebooks |
 
 
-## 🎯 What I’m Working On
-- 🔍 *Alongside my studies, I am currently building out an AI Agent for Spanish Tutoring*  
-- 📘 *Looking for oppurtunities to further my skills as a Software Engineer*  
-
-
 ## 📫 Get in Touch
 - 🌐 **Website:** [https://jjm429.github.io/portfolio-website/](https://jjm429.github.io/portfolio-website/)  
 - 💼 **LinkedIn:** [www.linkedin.com/in/jamie-mottashed](https://www.linkedin.com/in/jamie-mottashed)  
