@@ -12,10 +12,9 @@ Thanks for stopping by — feel free to explore and reach out!
 - 🧩 Interested in technology, sports and continuous learning and development opportunities
 
 
-
 ## 🛠️ Tech Stack
-**Languages:** Python • Java • C • JavaScript • HTML • CSS • Haskell  
-**Tools & Technologies:** Git • VS Code • Pandas & NumPy • Docker • IntelliJ IDEA • Web Scraping
+**Languages:** Python • Java • TypeScript/JavaScript • C • HTML/CSS • Haskell  
+**Tools & Technologies:** Git • Docker • VS Code • Pandas & NumPy • IntelliJ IDEA • Web Scraping
 
 
 ## 🚀 Featured Projects
@@ -23,10 +22,9 @@ Here are a few highlights from my portfolio (see pinned repositories for more):
 
 | Project | Description | Stack |
 |----------|--------------|-------------|
-| [12 Tasks of Hercules](https://github.com/JJM429/12-Tasks-of-Hercules-text-game) | This project is a Java text-based adventure game inspired by the legendary 12 Tasks of Hercules. | Java |
+| [Stateful AI Language Tutor](https://github.com/JJM429/cf_ai_spanish-tutor-agent) | A stateful, intelligent language tutor built on Cloudflare Workers, Durable Objects, and Llama 3.3. | TypeScript/React, Cloudflare Workers AI, Durable Objects |
+| [12 Tasks of Hercules](https://github.com/JJM429/12-Tasks-of-Hercules-text-game) | This project is a Java text-based adventure game inspired by the legendary 12 Tasks of Hercules. | Java, Docker |
 | [Python Financial Dashboard](https://github.com/JJM429/Financial-Dashboard-Python) | A Python-based financial dashboard that extracts, processes, and visualises real-world stock and revenue data. | Python, Jupyter Notebooks |
-| [Portfolio Website](https://github.com/JJM429/portfolio-website) | My personal portfolio website, which showcases my projects, experience, and interests in software engineering. | HTML/CSS, JavaScript |
-
 
 
 ## 🎯 What I’m Working On
@@ -34,13 +32,10 @@ Here are a few highlights from my portfolio (see pinned repositories for more):
 - 📘 *Looking for oppurtunities to further my skills as a Software Engineer*  
 
 
-
 ## 📫 Get in Touch
 - 🌐 **Website:** [https://jjm429.github.io/portfolio-website/](https://jjm429.github.io/portfolio-website/)  
 - 💼 **LinkedIn:** [www.linkedin.com/in/jamie-mottashed](https://www.linkedin.com/in/jamie-mottashed)  
 - 📧 **Email:** james.mottashed@gmail.com
-
-
 
 
 <!--
