@@ -3,7 +3,7 @@
 
 ## 🧠 About Me
 - 🎓 **UK Excellence Scholar** in **Computer Science** at *University of Birmingham* — expected graduation *2027*  
-- 💻 Incoming **Software Engineer** and **TargetJobs SWE of the Year '26**
+- 💻 Incoming **Software Engineer @ Skyscanner** and **TargetJobs SWE of the Year '26**
 - 🌱 Currently building full-stack web and mobile applications, across a range of my interests  
 
 
