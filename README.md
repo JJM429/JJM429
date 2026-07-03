@@ -23,7 +23,7 @@ Here are a few highlights from my portfolio (see pinned repositories for more):
 
 
 ## 📫 Get in Touch
-- 🌐 **Website:** [https://jjm429.github.io/portfolio-website/](https://jjm429.github.io/portfolio-website/)  
+- 🌐 **Website:** [https://jamiemottashed.com](https://jamiemottashed.com)  
 - 💼 **LinkedIn:** [www.linkedin.com/in/jamie-mottashed](https://www.linkedin.com/in/jamie-mottashed)  
 - 📧 **Email:** james.mottashed@gmail.com
 
